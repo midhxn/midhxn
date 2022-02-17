@@ -57,6 +57,16 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  
+  
+ 
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhxn&layout=compact" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" />
+  
+  
 
 ⭐️ From [Midhun](https://github.com/midhxn)
 
