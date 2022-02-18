@@ -60,7 +60,7 @@
   
   
  
-<a href="https://github.com/Neel2904">
+<a href="https://github.com/midhxn">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhxn" />
   <img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" />
 </a>
