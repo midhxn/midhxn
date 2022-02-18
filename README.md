@@ -62,9 +62,10 @@
  
 <a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhxn&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" />
+
   
   
 
