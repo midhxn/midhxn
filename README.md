@@ -27,14 +27,14 @@
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+#### My Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   
   
   
@@ -59,8 +59,17 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   
   
+  
+#### Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from college
+  
+  
+  
  
-<a href="https://github.com/midhxn">
+<a height: 100px>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhxn" />
   <img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" />
 </a>
