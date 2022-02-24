@@ -1,9 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="">
-  <img align="left" alt="Midhun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="">
   <img align="left" alt="Midhun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/midhxn">
@@ -60,8 +57,6 @@
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - learning Ruby
-  
-  
   
  
 <a>
