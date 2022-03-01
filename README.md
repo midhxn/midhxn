@@ -12,9 +12,6 @@
 <a href="">
   <img align="left" alt="Midhun's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Midhun" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" />
 
