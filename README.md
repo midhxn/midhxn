@@ -18,7 +18,7 @@
 ### I am Midhun
 - An Freelance Web developer, tutor & Open Source enthusiast.
 - A Computer Application Postgraduate Student. 
-- Currently working on some of my cool side projects based on Web Development.
+- working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 #### My Tech Stack
