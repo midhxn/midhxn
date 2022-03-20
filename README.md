@@ -56,15 +56,17 @@
 - learning Ruby , upgrading python,js skills
   
  
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" />
-</a>
-<tr>
-  <td>
-    <p align="left"><a href="https://github.com/midhxn/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhxn" alt="midhxn" />     </a></p>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=midhxn&layout=compact&theme=radical" alt="midhxn" width="100%" /></p>
+
+<table>
+ <tr>
+   <td>
+     <p align="left"><a><img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" /></a></p> 
+   </td>
+   <td>
+     <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=midhxn&layout=compact&theme=radical" alt="midhxn" width="100%" /></p>
   </td>
-</tr>
+ </tr>
+</table>
 
   
   
