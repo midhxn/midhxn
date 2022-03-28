@@ -52,7 +52,7 @@
 #### Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 6 hours a day
-- learning Ruby , upgrading python,js skills
+- Upgrading python,js skills
   
  
 
