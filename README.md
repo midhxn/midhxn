@@ -50,9 +50,9 @@
  
   
 #### Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 6 hours a day
-- Upgrading python,js skills
+- Waking up earlier to make good use of the day🤖
+- Coding at least 6 hours a day😎
+- Upgrading python,js skills🥶
   
  
 
