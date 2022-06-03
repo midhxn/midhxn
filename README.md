@@ -1,4 +1,4 @@
-## Hello Geeks <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
+## Hello Geeks <h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
 
 <a href="">
   <img align="left" alt="Midhun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
