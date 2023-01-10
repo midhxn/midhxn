@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" />
 
 ### I am Midhun
-- An Freelance Web developer, tutor & Open Source enthusiast.
+- A Freelance Web developer, tutor & Open Source enthusiast.
 - A Computer Application Postgraduate Student. 
 - working on some of my cool side projects and clones based on Web Development/Web 3.0.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
