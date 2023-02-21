@@ -29,6 +29,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -55,7 +56,7 @@
 #### Things I am challenging myself with:
 - Making good use of the day🤖
 - Coding at least 6 hours a day😎
-- Upgrading js skills🥶
+- Upgrading js skills; Learning Kotlin🥶
   
  
 <table>
