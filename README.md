@@ -56,7 +56,7 @@
  
   
 #### Things I am challenging myself with:
-- Making good use of the day🤖
+- Making effective use of the day🤖
 - Coding at least 6 hours a day😎
 - Upgrading js skills; Learning Kotlin🥶
   
