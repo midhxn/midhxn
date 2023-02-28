@@ -30,7 +30,6 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
- 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -54,13 +53,13 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
- a
+ 
  
   
 #### Things I am challenging myself with:
 - Making effective use of the day🤖
 - Coding at least 6 hours a day😎
-- Upgrading js skills; Learning Kotlin🥶
+- Upgrading js skills; Learning Kotlin and jetpack compose🥶
   
  
 <table>
