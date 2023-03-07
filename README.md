@@ -1,4 +1,4 @@
-## Hello Geeks
+## Hello geeks
 
 <a href="">
   <img align="left" alt="Midhun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -56,7 +56,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
  
  
-  
 #### Things I am challenging myself with:
 - Making effective use of the day🤖
 - Coding at least 6+ hours a day😎
