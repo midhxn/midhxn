@@ -16,8 +16,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" />
 
 ### I am Midhun
-- A Freelance Web developer, tutor & Open Source enthusiast.
-- A Computer Application Postgraduate. 
+- A Developer, tutor & Open Source enthusiast.
+- Engineering Nimoplanet
+- A Computer Application Postgraduate.
+- Teaching Tech
 - Working on some of my cool side projects.
 
 #### My Tech Stack
@@ -55,26 +57,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
- 
- 
-#### Things I am challenging myself with:
-- Making effective use of the day🤖
-- Coding at least 6+ hours a day😎
-- Upgrading js skills; Learning Kotlin and jetpack compose🥶
-  
- 
-<table>
- <tr>
-   <td>
-     <p align="left"><a><img src="https://github-readme-stats.vercel.app/api?username=midhxn&count_private=true" /></a></p> 
-   </td>
-   <td>
-     <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=midhxn&layout=compact&theme=radical" alt="midhxn" width="100%" /></p>
-  </td>
- </tr>
-</table>
-
-  
+   
 
 ⭐️ From [Midhun](https://github.com/midhxn) With ♥️
 
