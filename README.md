@@ -19,7 +19,6 @@
 - A Developer, tutor & Open Source enthusiast.
 - Engineering Nimoplanet
 - A Computer Application Postgraduate.
-- Teaching Tech
 - Working on some of my cool side projects.
 
 #### My Tech Stack
