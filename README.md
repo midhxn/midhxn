@@ -18,7 +18,6 @@
 ### I am Midhun
 - A Developer, tutor & Open Source enthusiast.
 - Engineering Nimoplanet
-- A Computer Application Postgraduate
 
 ⭐️ From [Midhun](https://github.com/midhxn) With ♥️
 
