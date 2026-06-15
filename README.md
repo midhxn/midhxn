@@ -17,7 +17,6 @@
 
 ### I am Midhun
 - A Developer, tutor & Open Source enthusiast.
-- Engineering Nimoplanet
 
 ⭐️ From [Midhun](https://github.com/midhxn) With ♥️
 
