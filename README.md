@@ -15,8 +15,6 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" />
 
-### I am Midhun
-- A Developer, tutor & Open Source enthusiast.
 
 ⭐️ From [Midhun](https://github.com/midhxn) With ♥️
 
